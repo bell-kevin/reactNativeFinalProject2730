@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# React Native Final Project S DEV 2730 Davis Technical College, Kaysville, Utah
+# React Native Final Project S DEV 2730 Davis Tech, Kaysville, UT
 
 Create a final project that demonstrates skills you've learned in this course. It must contain at least 4 screens which use at least 2 navigation schemes (stack, tab, drawer). The program must use at least 3 hooks: useContext, useState, useReducer, useEffect, useLayoutEffect are some of the hooks you've used in the Udemy tutorial for various purposes. There must be a database to store some data, with functionality to add new data and to delete data. There must be user authentication to access all the functionality. The app must access the camera and images, and mapping functionality. All screens must have style, with colors, margins, padding, centering, etc., so the screens have a professional look.
 
