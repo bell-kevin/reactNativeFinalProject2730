@@ -24,6 +24,8 @@ Submission: screenshots that show the functionality of all screens, the root fol
 
 ![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/flow.PNG)
 
+https://reactnavigation.org/docs/nesting-navigators/#navigating-to-a-screen-in-a-nested-navigator
+
 ## How to:
 
 Create one app. for both Android and iOS (Apple) using one computer alorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
