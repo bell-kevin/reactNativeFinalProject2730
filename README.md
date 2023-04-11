@@ -22,7 +22,7 @@ Be sure to go through the rubric carefully for details.
 
 Submission: screenshots that show the functionality of all screens, the root folder of the project, and the list detailing where to find each required element
 
-![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/flow.png)
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/flow.PNG)
 
 ## How to:
 
