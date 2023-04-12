@@ -1,0 +1,17 @@
+This is app. is a remix on the classic About Me app. Instead of being an About Me app, it's an About You app.
+
+I used 2 stack navigation schemes: one is in App.js starting on line 23 and going for many lines, and the other is in FavoritePlacesNew.js starting on line 19 and going for many lines.
+
+I used at least 3 hooks: useContext in App.js starting on line 1, and useEffect and useState in FavoritePlacesNew.js starting on line 1.
+
+The database is referenced in the util folder, then in database.js. The whole file is database code.
+
+Adding to the database is found at database.js, starting at line 33 and goes for several lines.
+
+Deleting from the database is found at database.js, starting at line 119 and goes for several lines.
+
+Maps are used in several files: screens/Map.js, components/Places/LocationPicker.js, util/location.js, and models/place.js.
+
+User authentication is used throughout the app.
+
+The camera is used and accesses images too: ImagePicker.js
