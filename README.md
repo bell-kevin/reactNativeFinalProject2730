@@ -24,6 +24,42 @@ Submission: screenshots that show the functionality of all screens, the root fol
 
 ![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/flow.PNG)
 
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/1.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/2.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/3.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/4.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/5.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/6.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/7.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/8.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/9.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/10.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/11.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/12.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/13.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/14.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/15.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/Capture.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/Capture2.PNG)
+
+![p](https://github.com/bell-kevin/reactNativeFinalProject2730/blob/main/screenshots/web.PNG)
+
 https://reactnavigation.org/docs/nesting-navigators/#navigating-to-a-screen-in-a-nested-navigator
 
 https://ionic.io/ionicons
