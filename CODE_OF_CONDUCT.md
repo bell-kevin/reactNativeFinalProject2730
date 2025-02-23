@@ -7,8 +7,7 @@ community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, level of experience, education, socio-economic status,
 nationality, personal appearance, race, or religion.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We pledge to act and interact in ways that contribute to an open, welcoming, and healthy community.
 
 ## Our Standards
 
