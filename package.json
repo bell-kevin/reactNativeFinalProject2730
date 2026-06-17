@@ -15,7 +15,7 @@
     "axios": "^1.18.0",
     "expo": "~56.0.12",
     "expo-image-picker": "^56.0.18",
-    "expo-location": "^56.0.17",
+    "expo-location": "^56.0.18",
     "expo-splash-screen": "^56.0.10",
     "expo-sqlite": "^56.0.5",
     "expo-status-bar": "~56.0.4",
